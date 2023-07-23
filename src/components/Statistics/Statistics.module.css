@@ -1,5 +1,4 @@
 .statistics {
-  /* background-color: aquamarine; */
   margin-bottom: 10%;
 }
 
@@ -32,8 +31,6 @@
 
 .statlist {
   display: flex;
-  /* justify-content: space-around; */
-  margin: 0;
   padding-left: 0;
 }
 
